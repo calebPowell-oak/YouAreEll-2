@@ -1,8 +1,8 @@
-package controllers;
+package com.zipcoder.ZipChat.controllers;
 
 import java.util.ArrayList;
 
-import models.Id;
+import com.zipcoder.ZipChat.models.Id;
 
 public class IdController {
     Id myId;

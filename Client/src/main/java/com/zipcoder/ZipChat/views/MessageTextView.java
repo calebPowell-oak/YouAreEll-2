@@ -1,6 +1,6 @@
-package views;
+package com.zipcoder.ZipChat.views;
 
-import models.Message;
+import com.zipcoder.ZipChat.models.Message;
 
 public class MessageTextView {
 

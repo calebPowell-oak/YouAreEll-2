@@ -1,10 +1,10 @@
-package controllers;
+package com.zipcoder.ZipChat.controllers;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 
-import models.Id;
-import models.Message;
+import com.zipcoder.ZipChat.models.Id;
+import com.zipcoder.ZipChat.models.Message;
 
 public class MessageController {
 

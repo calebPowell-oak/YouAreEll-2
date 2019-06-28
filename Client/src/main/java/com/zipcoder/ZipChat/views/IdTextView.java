@@ -1,6 +1,6 @@
-package views;
+package com.zipcoder.ZipChat.views;
 
-import models.Id;
+import com.zipcoder.ZipChat.models.Id;
 
 public class IdTextView {
 

@@ -1,4 +1,7 @@
-import controllers.*;
+package com.zipcoder.ZipChat;
+
+import com.zipcoder.ZipChat.controllers.IdController;
+import com.zipcoder.ZipChat.controllers.MessageController;
 
 public class YouAreEll {
 

@@ -1,4 +1,4 @@
-package models;
+package com.zipcoder.ZipChat.models;
 
 /* 
  * POJO for an Message object

@@ -1,4 +1,4 @@
-package views;
+package com.zipcoder.ZipChat.views;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,8 +7,9 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-import controllers.IdController;
-import controllers.MessageController;
+import com.zipcoder.ZipChat.YouAreEll;
+import com.zipcoder.ZipChat.controllers.IdController;
+import com.zipcoder.ZipChat.controllers.MessageController;
 
 // Simple Shell is a Console view for YouAreEll.
 public class SimpleShell {
